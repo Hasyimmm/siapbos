@@ -20,6 +20,7 @@
       <li><a href="LOGIN_PERPUSTAKAAN.html">login</a></li>
     </ul>
   </nav>
+        
   <header>
     <div class="container">
       <img src="image/logo.jpg" style="width: 150px; height :50x; border-radius :50%">
@@ -30,6 +31,7 @@
       <p>Jl. Puspitek Raya No 10,serpong - Tangerang Selatan Telp.(021) 742 7010, 741 2566</p>
       <p>www.sisteminformasi.unpam.ac.id | e-mail : sistem_informasi@unpam.ac.id</p>
   </header>
+      
   <main>
     <section id="beranda">
       <h1>📚 BERANDA</h1>
@@ -107,6 +109,7 @@
       </div>
     </div>
   </div>
+  
   <footer>
     <span class="footer-title">MY PAGE</span>
     <img src="image/logo_per.jpg" alt="" style="width: 100px; height: 100px; border-radius: 50%;">
